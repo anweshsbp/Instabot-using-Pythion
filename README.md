@@ -9,4 +9,6 @@ Instapy is a really great module where you can automate everything your instagra
 
 First run index module successfully and then go for index1.
 
+Make sure to install geekodriver.log in your system.
+
 Use of pycharm IDE is recommended.
